@@ -1,0 +1,1 @@
+SELECT CategoryName FROM categories WHERE Picture IS NOT NULL;

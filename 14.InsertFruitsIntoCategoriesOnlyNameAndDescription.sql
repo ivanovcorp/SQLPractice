@@ -1,0 +1,1 @@
+INSERT INTO categories(CategoryName,Description) VALUES('Fruits', 'All kind of fruits');

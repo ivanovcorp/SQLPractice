@@ -1,0 +1,1 @@
+SELECT ContactName, City FROM Customers;
