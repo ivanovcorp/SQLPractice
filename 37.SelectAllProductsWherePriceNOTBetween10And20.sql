@@ -1,0 +1,2 @@
+SELECT * FROM products
+WHERE UnitPrice NOT BETWEEN 10 AND 20;

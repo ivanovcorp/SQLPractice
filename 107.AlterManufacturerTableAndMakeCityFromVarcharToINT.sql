@@ -1,0 +1,2 @@
+ALTER TABLE manufacturer
+MODIFY COLUMN city INT NOT NULL;
